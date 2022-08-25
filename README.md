@@ -1,1 +1,1 @@
-My first readme
+Learning at alx is fun!
